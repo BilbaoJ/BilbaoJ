@@ -1,6 +1,6 @@
 ### Hi there 👋 , my name is Jessica👩‍💻
 # 💫 About Me:
-🔭 I’m currently studying Systems Engineering <br>🌱 I’m currently improving my front and back web development skills working with NodeTS and Vue <br>⚡ Fun fact: I don't know how to ride a bicycle😅
+🔭 I’m currently studying Systems Engineering <br>🌱 I’m currently improving my front and back web development skills working with NodeTS and Angular <br>⚡ Fun fact: I don't know how to ride a bicycle😅
 
 
 ## 🌐 Socials:
